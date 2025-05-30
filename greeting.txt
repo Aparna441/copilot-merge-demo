@@ -1,1 +1,2 @@
 Hello from feature B
+This line is added in feature B
