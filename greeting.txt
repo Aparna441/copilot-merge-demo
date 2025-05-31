@@ -1,6 +1,6 @@
 Hello from feature A and B
 This line added from Both branches
 Hello from Feature C, good day 
-Hello from feature D
-done with all greetings
-
+Hello from Feature D
+Hello from Feature E
+Done with all greetings
