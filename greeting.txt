@@ -1,4 +1,4 @@
 Hello from feature A and B
 This line added from Both branches
-Hello from Feature C
+Hello from Feature C <F3, good day
 
