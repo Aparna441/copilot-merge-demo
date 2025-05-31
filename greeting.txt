@@ -1,1 +1,2 @@
-Hello from feature B
+Hello from feature A and B
+This line added from Both branches
